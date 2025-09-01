@@ -57,7 +57,7 @@
 
     NAV {
         bindings = <
-            &none           &none           &none           &tog_on NAV           &tog_off NAV                &kp LC(Y)     &kp LC(V)     &kp LC(C)     &kp LC(X)        &kp LC(Z)
+            &none           &none           &none           &none           &none                &kp LC(Y)     &kp LC(V)     &kp LC(C)     &kp LC(X)        &kp LC(Z)
             &kp LGUI        &kp LALT        &kp LCTL        &kp LSHIFT      &none                &caps_word    &kp LEFT      &kp UP        &kp DOWN         &kp RIGHT
             &none           &none           &none           &none           &none                &none         &kp HOME      &kp PGUP      &kp PGDN         &kp END
 
